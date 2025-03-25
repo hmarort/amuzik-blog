@@ -1,6 +1,6 @@
 ---
 title: Módulos Principales de Amuzik
-layout: page
+layout: landing
 description: Componentes clave de Amuzik
 image: assets/images/modules.jpg
 nav-menu: true

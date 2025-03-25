@@ -1,5 +1,5 @@
 ---
-title: Tecnologías
+title: Tecnologias
 layout: landing
 description: El stack tecnológico detrás de Amuzik
 image: assets/images/tech.jpg
