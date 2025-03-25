@@ -1,7 +1,7 @@
-# Gemfile
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem "jekyll"
-gem "forty-jekyll-theme"
-gem "jekyll-feed"
-gem "kramdown"
+gem 'jekyll', '~> 4.2'
+
+group :jekyll_plugins do
+  gem 'jekyll-timeago', '~> 0.13.1'
+end
