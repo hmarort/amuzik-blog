@@ -9,16 +9,6 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
-<!-- Descripción General -->
-<section id="descripcion">
-    <div class="inner">
-        <header class="major">
-            <h2>Descripción General</h2>
-        </header>
-        <p>Nuestro proyecto sigue una metodología estructurada para garantizar un desarrollo eficiente y de alta calidad.</p>
-    </div>
-</section>
-
 <!-- Fases del Proyecto -->
 <section id="fases" class="spotlights">
     <section>
