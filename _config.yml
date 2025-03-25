@@ -5,7 +5,7 @@ email: hecmaror04@gmail.com
 description: Proyecto de fin de ciclo de grado superior de Desarrollo de Aplicaciones Multiplataforma.
 keywords: [amuzik, música, amigos, proyecto, ciclo, grado, superior, DAM, desarrollo, aplicaciones, multiplataforma]
 baseurl: "/amuzik" # the subpath of your site, e.g. /blog
-url: "https://hmarort.github.io/"# the base hostname & protocol for your site
+url: "https://hmarort.github.io"# the base hostname & protocol for your site
 author: "Héctor Martín Ortega"
 github_username:  hmarort
 street_address: Calle de la Tórtola, nº 8
@@ -16,7 +16,7 @@ country: España
 phone: (+34) 640 53 21 85
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
+tiles-source: pages
 tiles-count: 6
 
 socials:
