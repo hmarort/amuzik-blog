@@ -13,10 +13,6 @@ permalink: /modulos/
 <!-- One -->
 <section id="one">
     <div class="inner">
-        <header class="major">
-            <h1>Módulos Principales de Amuzik</h1>
-        </header>
-        <span class="image main"><img src="{{ site.baseurl }}/assets/images/modules.jpg" alt="" /></span>
         
         <h2>Descripción General</h2>
         <p>Amuzik está compuesto por módulos especializados que trabajan en conjunto para proporcionar una experiencia musical única y compartida.</p>
