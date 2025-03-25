@@ -48,7 +48,7 @@ permalink: /modulos/
         </ul>
 
         <ul class="actions">
-            <li><a href="/index.md" class="button next">Volver al Inicio</a></li>
+            <li><a href="{{ "" | absolute_url }}/index.md" class="button next">Volver al Inicio</a></li>
         </ul>
     </div>
 </section>

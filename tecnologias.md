@@ -67,7 +67,7 @@ permalink: /tecnologias/
         </ul>
 
         <ul class="actions">
-            <li><a href="/planificacion/" class="button next">Ver Planificación del Proyecto</a></li>
+            <li><a href="{{ "" | absolute_url }}/planificacion/" class="button next">Ver Planificación del Proyecto</a></li>
         </ul>
     </div>
 </section>

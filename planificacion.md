@@ -90,7 +90,7 @@ nav-menu: true
             <li>Se recomienda una revisión periódica del cronograma.</li>
         </ul>
         <ul class="actions">
-            <li><a href="/modulos/" class="button next">Explorar Módulos Principales</a></li>
+            <li><a href="{{ "" | absolute_url }}/modulos/" class="button next">Explorar Módulos Principales</a></li>
         </ul>
     </div>
 </section>
