@@ -35,4 +35,4 @@ Amuzik está compuesto por módulos especializados que trabajan en conjunto para
 - **Temas de Interfaz**: Modos claro, oscuro y paletas de color personalizadas
 - **Adaptabilidad**: Ajustes de tamaño para fuentes, botones y elementos visuales
 
-[Volver al Inicio](/index.md)
+[Volver al Inicio](/index.md){: .button .next}

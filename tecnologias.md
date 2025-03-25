@@ -48,4 +48,4 @@ Amuzik utiliza un conjunto de tecnologías modernas y eficientes para crear una 
   - Sincronización en tiempo real
   - Comunicación bidireccional
 
-[Ver Planificación del Proyecto](/planificacion.md)
+[Ver Planificación del Proyecto](/planificacion.md){: .button .next}

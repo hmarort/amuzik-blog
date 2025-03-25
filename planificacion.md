@@ -55,4 +55,4 @@ Nuestro proyecto sigue una metodología estructurada para garantizar un desarrol
 - Cada fase tiene hitos específicos y entregables definidos.
 - Se recomienda una revisión periódica del cronograma.
 
-[Explorar Módulos Principales](/modulos.md){: .button .next}
+[Explorar Módulos Principales]({{ "" | absolute_url }}/modulos/){: .button .next}
