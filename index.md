@@ -1,11 +1,17 @@
 ---
 layout: home
-title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
+title: Amuzik
+landing-title: 'Amuzik'
+description: Sincroniza tu música, conecta con amigos
 image: null
 author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+# Bienvenido a Amuzik
+
+Amuzik es una innovadora aplicación de reproducción de música que permite a los usuarios escuchar la misma canción al mismo tiempo desde diferentes lugares. Inspirada en lo mejor de Spotify y Spicetify, Amuzik lleva la experiencia musical compartida al siguiente nivel.
+
+<ul class="actions">
+    <li><a href="/tecnologias.md" class="button next scrolly">Descubre nuestras tecnologías</a></li>
+</ul>
