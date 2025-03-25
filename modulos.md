@@ -1,5 +1,5 @@
 ---
-title: Módulos Principales de Amuzik
+title: Módulos Principales
 layout: landing
 description: Componentes clave de Amuzik
 image: assets/images/modules.jpg
