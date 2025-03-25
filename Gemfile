@@ -1,5 +1,10 @@
 source 'https://rubygems.org'
-gem 'github-pages', group: :jekyll_plugins
+
+gem 'jekyll', '~> 4.3.0'
+gem 'webrick'
+
 group :jekyll_plugins do
- gem 'jekyll-timeago', '~> 0.13.1'
+  gem 'jekyll-feed'
+  gem 'jekyll-seo-tag'
+  # Añade otros plugins que uses
 end
