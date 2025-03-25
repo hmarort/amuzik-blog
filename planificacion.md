@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: landing
 title: Planificación del Proyecto
 description: Cronograma detallado del desarrollo de Amuzik
 image: assets/images/planning.jpg
