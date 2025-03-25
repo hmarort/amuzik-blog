@@ -1,33 +1,31 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: Amuzik
+subtitle: Escucha tu música favorita, acompañado de tus amigos.
+email: hecmaror04@gmail.com
+description: Proyecto de fin de ciclo de grado superior de Desarrollo de Aplicaciones Multiplataforma.
+keywords: [amuzik, música, amigos, proyecto, ciclo, grado, superior, DAM, desarrollo, aplicaciones, multiplataforma]
 baseurl: "/amuzik" # the subpath of your site, e.g. /blog
 url: "https://hmarort.github.io/"# the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+author: "Héctor Martín Ortega"
+github_username:  hmarort
+street_address: Calle de la Tórtola, nº 8
+city: Cádiz
+state: El Puerto de Santa María
+zip_code: 11500
+country: España
+phone: (+34) 640 53 21 85
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
-# social settings (key must match name of font awesome icon)
-# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
-# Icons are not shown if value is empty
-# You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://github.com/hmarort
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  Google-Plus: 
+  Instagram: https://www.instagram.com/hmarort
+  LinkedIn: 
+  Twitter: 
   Facebook:
   Slack:
 
