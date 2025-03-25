@@ -12,6 +12,10 @@ show_tile: false
 
 Amuzik es una innovadora aplicación de reproducción de música que permite a los usuarios escuchar la misma canción al mismo tiempo desde diferentes lugares. Inspirada en lo mejor de Spotify y Spicetify, Amuzik lleva la experiencia musical compartida al siguiente nivel.
 
-<ul class="actions">
-    <li><a href="/tecnologias.md" class="button next scrolly">Descubre nuestras tecnologías</a></li>
-</ul>
+## Características Principales
+
+- **Sincronización en Tiempo Real**: Escucha música con amigos sin importar la distancia
+- **Multiplataforma**: Compatible con diversos dispositivos y sistemas operativos
+- **Interfaz Intuitiva**: Diseño moderno y fácil de usar
+
+[Descubre nuestras tecnologías](/tecnologias/)

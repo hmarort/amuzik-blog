@@ -7,25 +7,45 @@ nav-menu: true
 permalink: /tecnologias/
 ---
 
-## Tecnologías
+# Stack Tecnológico de Amuzik
 
-Amuzik utiliza un stack tecnológico moderno y robusto para ofrecer la mejor experiencia de usuario.
+## Descripción General
+
+Amuzik utiliza un conjunto de tecnologías modernas y eficientes para crear una experiencia de usuario de primera clase.
+
+## Detalles del Stack
 
 ### Frontend
-- **Framework:** Ionic 7 con Angular
-- **Lenguaje:** TypeScript
-- **UI/UX:** TailwindCSS
+- **Framework Principal**: Ionic 7 con Angular
+  - Desarrollo multiplataforma
+  - Rendimiento y escalabilidad
+- **Lenguaje**: TypeScript
+  - Tipado estático
+  - Mejora la mantenibilidad del código
+- **Diseño UI/UX**: TailwindCSS
+  - Diseño responsive
+  - Personalización rápida y sencilla
 
 ### Backend
-- **Lenguaje:** PHP
-- **Framework:** CodeIgniter4 (API REST)
-- **Base de Datos:** PostgreSQL
-- **Autenticación:** JWT (JSON Web Token)
+- **Lenguaje**: PHP
+  - Amplia compatibilidad
+  - Rendimiento optimizado
+- **Framework**: CodeIgniter4 (API REST)
+  - Desarrollo ágil
+  - Seguridad integrada
+- **Base de Datos**: PostgreSQL
+  - Alta concurrencia
+  - Soporte geoespacial
+- **Autenticación**: JWT (JSON Web Token)
+  - Seguridad de sesiones
+  - Stateless authentication
 
-### APIs Externas
-- **Audius API:** Reproducción de música
-- **WebSockets:** Sincronización en tiempo real
+### APIs y Tecnologías Externas
+- **Audius API**: 
+  - Reproducción de música
+  - Catálogo musical diverso
+- **WebSockets**: 
+  - Sincronización en tiempo real
+  - Comunicación bidireccional
 
-<ul class="actions">
-    <li><a href="/planificacion.md" class="button next">Ver planificación del proyecto</a></li>
-</ul>
+[Ver Planificación del Proyecto](/planificacion.md)

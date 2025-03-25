@@ -9,34 +9,30 @@ permalink: /modulos/
 
 # Módulos Principales de Amuzik
 
-## Características Principales
+## Descripción General
 
+Amuzik está compuesto por módulos especializados que trabajan en conjunto para proporcionar una experiencia musical única y compartida.
 
-### Módulo de Usuarios
-- Registro e inicio de sesión con autenticación segura
-- Creación, edición y eliminación de cuentas
-- Lista de amigos (agregar, aceptar, rechazar solicitudes)
-- Perfiles de usuario con configuración personalizada
+## Módulos Centrales
 
+### 1. Módulo de Usuarios
+- **Registro Seguro**: Proceso de registro e inicio de sesión con altos estándares de seguridad
+- **Gestión de Cuentas**: Creación, edición y eliminación de perfiles de usuario
+- **Red Social**: Sistema de amigos con solicitudes y gestión de contactos
+- **Personalización**: Perfiles configurables con opciones únicas
 
-### Módulo de Reproducción de Música
-- Reproducción de canciones desde la API de Audius
-- Control de reproducción (pausar, avanzar, retroceder)
-- Sincronización con otros usuarios en tiempo real
+### 2. Módulo de Reproducción de Música
+- **Integración con Audius**: Reproducción directa desde la plataforma de música
+- **Control Completo**: Funcionalidades de pausa, avance y retroceso
+- **Sincronización Perfecta**: Reproducción simultánea para múltiples usuarios
 
-### Módulo de Sincronización y Conexión
-- Creación de salas privadas para escuchar juntos
-- Uso de WebSockets para sincronización en tiempo real
-- Opción de invitar amigos a una sesión en curso
+### 3. Módulo de Sincronización y Conexión
+- **Salas Privadas**: Espacios exclusivos para escuchar música con amigos
+- **WebSockets**: Tecnología de punta para sincronización en tiempo real
+- **Invitaciones Dinámicas**: Sistema simple para invitar amigos a sesiones
 
-### Módulo de Personalización
-- Cambio de temas (claro, oscuro, colores personalizados)
-- Modificación del tamaño de elementos (fuentes, botones)
+### 4. Módulo de Personalización
+- **Temas de Interfaz**: Modos claro, oscuro y paletas de color personalizadas
+- **Adaptabilidad**: Ajustes de tamaño para fuentes, botones y elementos visuales
 
-<div class="row">
-    <div class="6u 12u$(small)">
-        <ul class="actions">
-            <li><a href="/index.md" class="button next">Volver al inicio</a></li>
-        </ul>
-    </div>
-</div>
+[Volver al Inicio](/index.md)
