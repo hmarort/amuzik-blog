@@ -1,6 +1,6 @@
 ---
 title: Amuzik
-layout: page
+layout: post
 description: 'Aplicación de reproducción de música con sincronización en tiempo real entre usuarios.'
 image: assets/images/amuzik.jpg
 nav-menu: true
