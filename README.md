@@ -1,66 +1,93 @@
-# Forty - Jekyll Theme
+# Amuzik
 
-A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
+**Tipo:** Aplicación de reproducción de música con sincronización en tiempo real entre usuarios.  
+**Inspiración:** Spotify + Spicetify  
+**Objetivo:** Permitir a los usuarios escuchar la misma canción al mismo tiempo desde diferentes lugares.
 
-![Forty Theme](assets/images/forty.jpg "Forty Theme")
+## Tecnologías
+### Frontend
+- **Framework:** Ionic 7 con Angular
+- **Lenguaje:** TypeScript
+- **UI/UX:** TailwindCSS
 
-# How to Use
+### Backend
+- **Lenguaje:** PHP
+- **Framework:** CodeIgniter4 (API REST)
+- **Base de Datos:** PostgreSQL
+- **Autenticación:** JWT (JSON Web Token)
 
-For those unfamiliar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details, 
-or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/), 
-and [creating pages](https://jekyllrb.com/docs/pages/).
+### APIs Externas
+- **YouTube API:** Reproducción de música
+- **WebSockets (PHP Ratchet o Node.js):** Sincronización en tiempo real
 
-Simply fork this repository and start editing the `_config.yml` file!
+---
 
-> NOTE: GitHub Actions is required to deploy to GitHub Pages because GitHub [refuses to update their version of Jekyll](https://github.com/github/pages-gem/issues/651).
+## Planificación del Proyecto
 
-# Added Features
+### 1. Planificación Inicial
 
-* **[Formspree.io](https://formspree.io/) contact form integration** - just add your email to the `_config.yml` and it works!
-* Use `_config.yml` to **set whether the homepage tiles should pull pages or posts**, as well as how many to display.
-* Add your **social profiles** easily in `_config.yml`. Only social profiles buttons you enter in `config.yml` show up on the site footer!
-* Set **featured images** in front matter.
+| Fase | Fecha de Inicio | Fecha de Fin |
+|-----------------------------|-----------------|--------------|
+| Definición de Funcionalidades | 18/03/2025 | 20/03/2025 |
+| Análisis del Proyecto | 21/03/2025 | 09/04/2025 |
+| Definición del Entorno | 21/03/2025 | 25/03/2025 |
+| Definición de Herramientas | 26/03/2025 | 01/04/2025 |
+| Definición del Modelo de Datos (E/R) | 02/04/2025 | 09/04/2025 |
 
-# Credits
+---
 
-Original README from HTML5 UP:
+### 2. Diseño y Arquitectura
 
-```
-Forty by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+| Fase | Fecha de Inicio | Fecha de Fin |
+|-----------------------------|-----------------|--------------|
+| Diseño de Datos | 10/04/2025 | 10/04/2025 |
+| Diseño de Clases | 11/04/2025 | 15/04/2025 |
+| Diseño de la UI (Colores y Temas) | 16/04/2025 | 16/04/2025 |
+| Definición de la Estructura de la Aplicación | 17/04/2025 | 18/04/2025 |
 
+---
 
-This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
-creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
-set up to smoothly transition to secondary landing pages (for which a separate page
-template is provided), and includes a number of neat effects (check out the menu!),
-extra features, and all the usual stuff you'd expect. Hope you dig it!
+### 3. Implementación
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+| Fase | Fecha de Inicio | Fecha de Fin |
+|-----------------------------|-----------------|--------------|
+| Desarrollo de la Interfaz Gráfica | 18/04/2025 | 11/06/2025 |
+| Desarrollo del Backend | 18/04/2025 | 11/06/2025 |
 
-(* = not included)
+---
 
-AJ
-aj@lkn.io | @ajlkn
+### 4. Pruebas y Ajustes Finales
 
+| Fase | Fecha de Inicio | Fecha de Fin |
+|-----------------------------|-----------------|--------------|
+| Pruebas Unitarias y de Integración | 12/06/2025 | 20/06/2025 |
+| Creación del Manual de Usuario | 23/06/2025 | 24/06/2025 |
+| Implantación y Cierre | 25/06/2025 | 25/06/2025 |
 
-Credits:
+---
 
-	Demo Images:
-		Unsplash (unsplash.com)
+## Módulos Principales
 
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
+### Módulo de Usuarios
+- Registro e inicio de sesión con autenticación segura.
+- Creación, edición y eliminación de cuentas.
+- Lista de amigos (agregar, aceptar, rechazar solicitudes).
+- Perfiles de usuario con configuración personalizada.
 
-	Other:
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		background-size polyfill (github.com/louisremi)
-		Misc. Sass functions (@HugoGiraudel)
-		Respond.js (j.mp/respondjs)
-		Skel (skel.io)
-```
+### Módulo de Reproducción de Música
+- Reproducción de canciones desde la API de YouTube.
+- Control de reproducción (pausar, avanzar, retroceder).
+- Sincronización con otros usuarios en tiempo real.
 
-Repository [Jekyll logo](https://github.com/jekyll/brand) icon licensed under a [Creative Commons Attribution 4.0 International License](http://choosealicense.com/licenses/cc-by-4.0/).
+### Módulo de Sincronización y Conexión
+- Creación de salas privadas para escuchar juntos.
+- Uso de WebSockets para sincronización en tiempo real.
+- Opción de invitar amigos a una sesión en curso.
+
+### Módulo de Personalización
+- Cambio de temas (claro, oscuro, colores personalizados).
+- Modificación del tamaño de elementos (fuentes, botones).
+
+---
+[![GitHub](https://img.shields.io/badge/GitHub-hmarort-blue?style=flat&logo=github)](https://github.com/hmarort)  
+[![Instagram](https://img.shields.io/badge/Instagram-hmarort-purple?style=flat&logo=instagram)](https://instagram.com/hmarort) 
