@@ -1,0 +1,39 @@
+# _config.yml
+title: Amuzik
+email: your-email@example.com
+description: >-
+  Sincroniza tu música, conecta con amigos
+baseurl: "https://hmarort.github.io/amuzik"
+url: "https://hmarort.github.io"
+github_username: hmarort
+
+# Build settings
+theme: forty-jekyll-theme
+plugins:
+  - jekyll-feed
+
+# Markdown settings
+markdown: kramdown
+
+# Sass settings
+sass:
+  style: compressed
+
+# Collections
+collections:
+  sections:
+    output: true
+    permalink: /:collection/:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: "sections"
+    values:
+      layout: section
