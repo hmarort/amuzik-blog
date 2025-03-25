@@ -1,6 +1,6 @@
 ---
 title: Tecnologías
-layout: post
+layout: page
 description: El stack tecnológico detrás de Amuzik
 image: assets/images/tech.jpg
 nav-menu: true
