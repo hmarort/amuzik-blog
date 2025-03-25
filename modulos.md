@@ -1,38 +1,60 @@
 ---
+title: Módulos Principales de Amuzik
 layout: page
-title: Módulos Principales
 description: Componentes clave de Amuzik
 image: assets/images/modules.jpg
 nav-menu: true
 permalink: /modulos/
 ---
 
-# Módulos Principales de Amuzik
+<!-- Main -->
+<div id="main" class="alt">
 
-## Descripción General
+<!-- One -->
+<section id="one">
+    <div class="inner">
+        <header class="major">
+            <h1>Módulos Principales de Amuzik</h1>
+        </header>
+        <span class="image main"><img src="{{ site.baseurl }}/assets/images/modules.jpg" alt="" /></span>
+        
+        <h2>Descripción General</h2>
+        <p>Amuzik está compuesto por módulos especializados que trabajan en conjunto para proporcionar una experiencia musical única y compartida.</p>
+        
+        <h2>Módulos Centrales</h2>
 
-Amuzik está compuesto por módulos especializados que trabajan en conjunto para proporcionar una experiencia musical única y compartida.
+        <h3>1. Módulo de Usuarios</h3>
+        <ul>
+            <li><strong>Registro Seguro</strong>: Proceso de registro e inicio de sesión con altos estándares de seguridad</li>
+            <li><strong>Gestión de Cuentas</strong>: Creación, edición y eliminación de perfiles de usuario</li>
+            <li><strong>Red Social</strong>: Sistema de amigos con solicitudes y gestión de contactos</li>
+            <li><strong>Personalización</strong>: Perfiles configurables con opciones únicas</li>
+        </ul>
 
-## Módulos Centrales
+        <h3>2. Módulo de Reproducción de Música</h3>
+        <ul>
+            <li><strong>Integración con Audius</strong>: Reproducción directa desde la plataforma de música</li>
+            <li><strong>Control Completo</strong>: Funcionalidades de pausa, avance y retroceso</li>
+            <li><strong>Sincronización Perfecta</strong>: Reproducción simultánea para múltiples usuarios</li>
+        </ul>
 
-### 1. Módulo de Usuarios
-- **Registro Seguro**: Proceso de registro e inicio de sesión con altos estándares de seguridad
-- **Gestión de Cuentas**: Creación, edición y eliminación de perfiles de usuario
-- **Red Social**: Sistema de amigos con solicitudes y gestión de contactos
-- **Personalización**: Perfiles configurables con opciones únicas
+        <h3>3. Módulo de Sincronización y Conexión</h3>
+        <ul>
+            <li><strong>Salas Privadas</strong>: Espacios exclusivos para escuchar música con amigos</li>
+            <li><strong>WebSockets</strong>: Tecnología de punta para sincronización en tiempo real</li>
+            <li><strong>Invitaciones Dinámicas</strong>: Sistema simple para invitar amigos a sesiones</li>
+        </ul>
 
-### 2. Módulo de Reproducción de Música
-- **Integración con Audius**: Reproducción directa desde la plataforma de música
-- **Control Completo**: Funcionalidades de pausa, avance y retroceso
-- **Sincronización Perfecta**: Reproducción simultánea para múltiples usuarios
+        <h3>4. Módulo de Personalización</h3>
+        <ul>
+            <li><strong>Temas de Interfaz</strong>: Modos claro, oscuro y paletas de color personalizadas</li>
+            <li><strong>Adaptabilidad</strong>: Ajustes de tamaño para fuentes, botones y elementos visuales</li>
+        </ul>
 
-### 3. Módulo de Sincronización y Conexión
-- **Salas Privadas**: Espacios exclusivos para escuchar música con amigos
-- **WebSockets**: Tecnología de punta para sincronización en tiempo real
-- **Invitaciones Dinámicas**: Sistema simple para invitar amigos a sesiones
+        <ul class="actions">
+            <li><a href="/index.md" class="button next">Volver al Inicio</a></li>
+        </ul>
+    </div>
+</section>
 
-### 4. Módulo de Personalización
-- **Temas de Interfaz**: Modos claro, oscuro y paletas de color personalizadas
-- **Adaptabilidad**: Ajustes de tamaño para fuentes, botones y elementos visuales
-
-[Volver al Inicio](/index.md){: .button .next}
+</div>

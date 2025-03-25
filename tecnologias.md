@@ -1,6 +1,6 @@
 ---
 title: Tecnologías
-layout: page
+layout: landing
 description: El stack tecnológico detrás de Amuzik
 image: assets/images/tech.jpg
 nav-menu: true
@@ -13,10 +13,7 @@ permalink: /tecnologias/
 <!-- One -->
 <section id="one">
     <div class="inner">
-        <header class="major">
-            <h1>{{ page.title }}</h1>
-        </header>
-        
+
         <p>Amuzik utiliza un conjunto de tecnologías modernas y eficientes para crear una experiencia de usuario de primera clase.</p>
 
         <h2>Detalles del Stack</h2>
