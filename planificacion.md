@@ -2,7 +2,7 @@
 title: Planificacion
 layout: landing
 description: 'Nuestro proyecto sigue una metodología estructurada para garantizar un desarrollo eficiente y de alta calidad.'
-image: assets/images/planificacion.jpg
+image: assets/images/planning.jpg
 nav-menu: true
 ---
 
