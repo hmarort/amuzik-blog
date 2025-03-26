@@ -13,11 +13,8 @@ permalink: /tecnologias/
 <!-- One -->
 <section id="one">
     <div class="inner">
-
         <p>Amuzik utiliza un conjunto de tecnologías modernas y eficientes para crear una experiencia de usuario de primera clase.</p>
-
         <h2>Detalles del Stack</h2>
-        
         <h3>Frontend</h3>
         <ul>
             <li><strong>Framework Principal</strong>: Ionic 7 con Angular<ul>
@@ -33,7 +30,6 @@ permalink: /tecnologias/
                 <li>Personalización rápida y sencilla</li>
             </ul></li>
         </ul>
-
         <h3>Backend</h3>
         <ul>
             <li><strong>Lenguaje</strong>: PHP<ul>
@@ -53,7 +49,6 @@ permalink: /tecnologias/
                 <li>Stateless authentication</li>
             </ul></li>
         </ul>
-
         <h3>APIs y Tecnologías Externas</h3>
         <ul>
             <li><strong>Audius API</strong>: <ul>
@@ -65,7 +60,6 @@ permalink: /tecnologias/
                 <li>Comunicación bidireccional</li>
             </ul></li>
         </ul>
-
         <ul class="actions">
             <li><a href="{{ "" | absolute_url }}/planificacion/" class="button next">Ver Planificación del Proyecto</a></li>
         </ul>
